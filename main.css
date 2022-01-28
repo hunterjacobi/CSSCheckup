@@ -1,0 +1,45 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.nav {
+  position: fixed;
+  top: 5px;
+  left: 350px;
+}
+
+#welcome {
+  font-style: italic;
+  font-weight: 600;
+  height: 125%;
+}
+
+p {
+  padding: 25px 25px;
+  border: 3px dotted fuchsia;
+  margin: 10px 10px;
+}
+
+.poll {
+  border: 5px solid black;
+  height: 300px;
+}
+
+.poll p {
+  border: 0;
+  padding: 5px;
+}
+
+.poll h1 {
+  text-align: center;
+}
+
+#red {
+  color: red;
+}
+
+.little {
+  width: 50%;
+  background-color: burlywood;
+  height: 250px;
+}
